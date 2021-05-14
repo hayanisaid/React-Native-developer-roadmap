@@ -1,4 +1,4 @@
-# React-Native-developer-roadmap
+# React Native Developer Roadmap
 <img src="./images/undraw_developer_activity_bv83.png"/>
 This is a complete guide to be A React Native. this repo contain all the resouces you need to master the React Native art,(Articles, Tutorials, Youtube Videos)
 
@@ -31,9 +31,40 @@ After you get an idea about React Native, now it's time to start setting up the 
 - 📌 [React Native Environment set up on Mac OS with Xcode and Android Studio](https://medium.com/@pabasarajayawardhana/react-native-environment-set-up-on-mac-os-with-xcode-and-android-studio-324e64c8552e)
 
 # Tutorials
-# Debuggin
+Tutorials, will get help you to learn how things really work,with Tutorials you will get the experience and start learning 
+#⚙️ Debugging
+This is an important phase in the software development, dubugging helps you identify bugs and solve them.
+In React Native, Debuggin can be done using some JavaScript debuggin tools like the developer tools in the Browser but not limited to that, there are some other tools that are specific to the React Native.
+
+### 📖 Articles
+
+- 📌 [Tools for debuggin React Native](https://www.sitepoint.com/tools-for-debugging-react-native/)
+- 📌[Debuggin in React Native](https://reactnative.dev/docs/debugging)
+- 📌[How To Debug React Native Apps Like A Pro? (Tools And Best Practices)](https://www.ideamotive.co/blog/how-to-debug-your-react-native-apps-like-a-pro)
+- 📌 [Debugging in React Native: Flipper vs React Native Debugger vs Reactotron](https://www.fullstacklabs.co/blog/debugging-react-native-apps-flipper-vs-react-native-debugger-vs-reactotron)
+
+
+### Debuggin tools
+ - [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
+ - [Flipper](https://fbflipper.com/)
+ - [reactotron](https://github.com/infinitered/reactotron)
+
+
 
 # Styling
+Styling is in Important step in React Native development.
+### 📖 Articles
+- 📌 [Styling in React Native](https://blog.bitsrc.io/styling-in-react-native-c48caddfbe47)
+- 📌 [React Native style docs](https://reactnative.dev/docs/style)
+-  📌 [React Native styling tutorial with examples](https://blog.logrocket.com/react-native-styling-tutorial-with-examples/)
+
+### 📚 Styling libraries
+- 📒 [react-native-extended-stylesheet](https://github.com/vitalets/react-native-extended-stylesheet)
+- 📒 [styled-components](https://styled-components.com/docs/basics#react-native)
+- 📒 [react-native-CSS](https://github.com/sabeurthabti/react-native-css)
+- 📒 [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss)
+
+
 # UI libraries
 # Tutorials to build react Projects
 # Articles
