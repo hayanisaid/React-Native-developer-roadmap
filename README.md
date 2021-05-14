@@ -51,7 +51,7 @@ In React Native, Debuggin can be done using some JavaScript debuggin tools like 
 
 
 
-# Styling
+#💅 Styling
 Styling is in Important step in React Native development.
 ### 📖 Articles
 - 📌 [Styling in React Native](https://blog.bitsrc.io/styling-in-react-native-c48caddfbe47)
