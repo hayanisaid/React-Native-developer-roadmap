@@ -57,6 +57,11 @@ Styling is in Important step in React Native development.
 - 📌 [Styling in React Native](https://blog.bitsrc.io/styling-in-react-native-c48caddfbe47)
 - 📌 [React Native style docs](https://reactnative.dev/docs/style)
 -  📌 [React Native styling tutorial with examples](https://blog.logrocket.com/react-native-styling-tutorial-with-examples/)
+- 📌 [Demystifying Flexbox in React Native](https://blog.bitsrc.io/demystifying-flexbox-in-react-native-4b62979fa9ea)
+- 📌 [Getting Started With React Native Flexbox Layout](https://programmingwithmosh.com/react-native/getting-started-with-react-native-flexbox-layout/)
+- 📌 [A Mini-Course on React Native Flexbox](https://medium.com/the-react-native-log/a-mini-course-on-react-native-flexbox-2832a1ccc6)
+- 📌 [Understanding Flexbox in React Native](https://blog.reactnativecoach.com/understanding-flex-in-react-native-b34dfb4b16d1)
+- 📌 [Applying and Organizing Styles in React Native](https://freecontent.manning.com/applying-and-organizing-styles-in-react-native/)
 
 ### 📚 Styling libraries
 - 📒 [react-native-extended-stylesheet](https://github.com/vitalets/react-native-extended-stylesheet)
@@ -65,11 +70,31 @@ Styling is in Important step in React Native development.
 - 📒 [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss)
 
 
+# 🖌 Building React native components
+
+- 📌 [Easily Build Forms in React Native](https://medium.com/react-native-development/easily-build-forms-in-react-native-9006fcd2a73b)
+- 📌 [uilding React Native forms with UI components
+](https://blog.logrocket.com/build-better-forms-with-react-native-ui-components/)
+- 📌 [How to create Custom Component in React native?](https://www.skcript.com/svr/how-to-create-custom-component-in-react-native/)
+- [Custom Component in React Native](https://www.fastfwd.com/custom-component-in-react-native/)
+- 📌[Create native UI component in React Native](https://medium.com/@yrezgui/create-native-ui-component-in-react-native-6f4b7fe4cc95)
+
+
 # UI libraries
+- 📌 [How to build React Native UI app with Material UI](https://blog.codemagic.io/how-to-build-react-native-ui-app-with-material-ui/)
+- 📌 [Top 5 Animation Libraries in React Native](https://blog.bitsrc.io/top-5-animation-libraries-in-react-native-d00ec8ddfc8d)
+- 📌 [Comparing React Native UI libraries](https://blog.logrocket.com/comparing-react-native-ui-libraries/)
+
+
 # Tutorials to build react Projects
 # Articles
 # books
 # Tools
+
 # deployment and publishing to the app stores
+- 📌 [How to Deploy a React Native IOS app on the App Store](https://readybytes.in/blog/how-to-deploy-a-react-native-ios-app-on-the-app-store)
+- 📌 [Build an iOS App with React Native and Publish it to the App Store](https://developer.okta.com/blog/2019/04/05/react-native-ios-app-store)
+- 📌 [Uploading Apps to the Apple App Store and Google Play](https://docs.expo.io/distribution/uploading-apps/)
+
 # common issues
 
