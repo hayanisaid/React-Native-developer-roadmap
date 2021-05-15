@@ -91,10 +91,14 @@ Styling is in Important step in React Native development.
 # books
 # Tools
 
-# deployment and publishing to the app stores
+# Deployment and publishing to the app stores
 - 📌 [How to Deploy a React Native IOS app on the App Store](https://readybytes.in/blog/how-to-deploy-a-react-native-ios-app-on-the-app-store)
 - 📌 [Build an iOS App with React Native and Publish it to the App Store](https://developer.okta.com/blog/2019/04/05/react-native-ios-app-store)
 - 📌 [Uploading Apps to the Apple App Store and Google Play](https://docs.expo.io/distribution/uploading-apps/)
+-  📌 [Deploying React Native Apps to App Store and Play Market : Step-by-Step Guide](https://apiko.com/blog/deploying-react-native-apps-to-app-store-and-play-market/)
+- 📌 [How to Deploy a React Native App for iOS and Android](https://instabug.com/blog/react-native-app-ios-android/)
+- 📌 [How to build and upload a React Native app to the iOS App Store using Expo](https://www.soeasie.com/blog/how-to-build-and-upload-a-react-native-app-to-the-ios-app-store-using-expo)
+- 📌 [How to Deploy a Create-React-Native-App to the AppStore](https://codeburst.io/how-to-deploy-a-create-react-native-app-to-the-appstore-229a8fa36fb1)
 
-# common issues
+# ⚠️ Common issues
 
