@@ -30,13 +30,8 @@ After you get an idea about React Native, now it's time to start setting up the 
 - 📌 [Android Setup](https://www.decoide.org/react-native/docs/android-setup.html)
 - 📌 [React Native Environment set up on Mac OS with Xcode and Android Studio](https://medium.com/@pabasarajayawardhana/react-native-environment-set-up-on-mac-os-with-xcode-and-android-studio-324e64c8552e)
 
-# Tutorials
-Tutorials, will get help you to learn how things really work,with Tutorials you will get the experience and start learning 
 #⚙️ Debugging
-This is an important phase in the software development, dubugging helps you identify bugs and solve them.
-In React Native, Debuggin can be done using some JavaScript debuggin tools like the developer tools in the Browser but not limited to that, there are some other tools that are specific to the React Native.
-
-### 📖 Articles
+Here are some content that will help you learn how to debug a React Native app ⬇️.
 
 - 📌 [Tools for debuggin React Native](https://www.sitepoint.com/tools-for-debugging-react-native/)
 - 📌[Debuggin in React Native](https://reactnative.dev/docs/debugging)
@@ -44,7 +39,7 @@ In React Native, Debuggin can be done using some JavaScript debuggin tools like 
 - 📌 [Debugging in React Native: Flipper vs React Native Debugger vs Reactotron](https://www.fullstacklabs.co/blog/debugging-react-native-apps-flipper-vs-react-native-debugger-vs-reactotron)
 
 
-### Debuggin tools
+### Debugging tools
  - [React Native Debugger](https://github.com/jhen0409/react-native-debugger)
  - [Flipper](https://fbflipper.com/)
  - [reactotron](https://github.com/infinitered/reactotron)
@@ -52,7 +47,7 @@ In React Native, Debuggin can be done using some JavaScript debuggin tools like 
 
 
 #💅 Styling
-Styling is in Important step in React Native development.
+Learn how to do styling in React Native with these resources below:
 ### 📖 Articles
 - 📌 [Styling in React Native](https://blog.bitsrc.io/styling-in-react-native-c48caddfbe47)
 - 📌 [React Native style docs](https://reactnative.dev/docs/style)
@@ -86,9 +81,21 @@ Styling is in Important step in React Native development.
 - 📌 [How To Use Routing with React Navigation in React Native](https://www.digitalocean.com/community/tutorials/react-react-native-navigation)
 - 📌 [Building a React Native App With Complex Navigation Using React Navigation](https://medium.com/@jan.hesters/building-a-react-native-app-with-complex-navigation-using-react-navigation-85a479308f52)
 
-# 🔑 Authentication
-- [How to Add Authentication to React Native in Three Steps Using Firebase](https://www.freecodecamp.org/news/how-to-add-authentication-to-react-native-in-three-steps-using-firebase/)
-# Animations
+# 🔑 Authentication 
+<img src="./images/authentication.png"/>
+
+
+
+- 📌 [How to Add Authentication to React Native in Three Steps Using Firebase](https://www.freecodecamp.org/news/how-to-add-authentication-to-react-native-in-three-steps-using-firebase/)
+- 📌 [Add Authentication to your React Native App](https://www.ory.sh/react-native-authentication-login-signup/)
+- 📌 [Create a React Native App with Login in 10 Minutes](https://developer.okta.com/blog/2019/11/14/react-native-login)
+- 📌 [React Native Authentication Flow, the Simplest and Most Efficient Way](https://levelup.gitconnected.com/react-native-authentication-flow-the-simplest-and-most-efficient-way-3aa13e80af61)
+- 📌 [Adding Authentication to Your React Native App Using JSON Web Tokens](https://auth0.com/blog/adding-authentication-to-react-native-using-jwt/)
+- 📌 [How to set up email authentication with React Native, react-navigation, and Firebase](https://blog.logrocket.com/how-to-set-up-email-authentication-with-react-native-react-navigation-and-firebase/)
+- 📌 [Implementing secure passwordless authentication in React Native apps with Auth0](https://blog.logrocket.com/secure-passwordless-authentication-react-native-auth0/)
+
+#🪄 Animations
+
 - 📌 [How to use Reanimated 2 (a beginners guide)](https://medium.com/react-native-school/how-to-use-reanimated-2-a-beginners-guide-b18b41dc74cc)
 - 📌 [Making Animations In React Native— The Simplified Guide](https://blog.bitsrc.io/making-animations-in-react-native-the-simplified-guide-6580f961f6e8)
 - 📌 [Top 5 Animation Libraries in React Native](https://blog.bitsrc.io/top-5-animation-libraries-in-react-native-d00ec8ddfc8d)
@@ -99,13 +106,14 @@ Styling is in Important step in React Native development.
 
 
 
-# UI libraries
+### UI libraries for styling
 - 📌 [How to build React Native UI app with Material UI](https://blog.codemagic.io/how-to-build-react-native-ui-app-with-material-ui/)
 - 📌 [Top 5 Animation Libraries in React Native](https://blog.bitsrc.io/top-5-animation-libraries-in-react-native-d00ec8ddfc8d)
 - 📌 [Comparing React Native UI libraries](https://blog.logrocket.com/comparing-react-native-ui-libraries/)
 
 
 # Deployment and publishing to the app stores
+
 - 📌 [How to Deploy a React Native IOS app on the App Store](https://readybytes.in/blog/how-to-deploy-a-react-native-ios-app-on-the-app-store)
 - 📌 [Build an iOS App with React Native and Publish it to the App Store](https://developer.okta.com/blog/2019/04/05/react-native-ios-app-store)
 - 📌 [Uploading Apps to the Apple App Store and Google Play](https://docs.expo.io/distribution/uploading-apps/)
@@ -122,27 +130,32 @@ Styling is in Important step in React Native development.
 
 # ⚠️ Common issues
 
-# 🔭 Advanced
-#🪤 Build fun things and Real project with React Native
+
+#🪤 Build fun things and real project with React Native
+Now, after getting your hands in React Native it's time to build and practice what you learned, here are some fun projects to work on:
 
 - 📌 [“Can it be done in React Native?” — a case for declarative gestures and animations](https://medium.com/@wcandillon/can-it-be-done-in-react-native-a-case-for-declarative-gestures-and-animations-823ae04f306b)
 - 📌 [Can it be done in React Native? Revolut chart using D3](https://levelup.gitconnected.com/can-it-be-done-in-react-native-revolut-chart-using-d3-52cecfe93639)
 - 📌 [Can this be done in React Native? Building the Chrome iOS TabBar](https://levelup.gitconnected.com/can-this-be-done-in-react-native-chrome-ios-tabbar-c76e5698dfb7)
 - 📌[Building Serverless Mobile Applications with React Native & AWS](https://medium.com/react-native-training/building-serverless-mobile-applications-with-react-native-aws-740ecf719fce)
-# Articles
-# React Native devs to to follow
 
-- [William Candillon](https://medium.com/@wcandillon)
-- [Aman Mittal](https://blog.logrocket.com/author/amanmittal/)
-- [Catalin Miron ](https://twitter.com/mironcatalin)
-- [Evan Bacon](https://twitter.com/Baconbrix)
-- [Satyajit Sahoo](https://twitter.com/satya164)
-- [Jonny Burger](https://github.com/JonnyBurger)
-- [Leo Natan](https://github.com/LeoNatan)
-- [Nicolas Charpentier](https://github.com/charpeni)
-- [Spencer Carli](https://github.com/spencercarli)
-- [Nader Dabit](https://github.com/dabit3)
-- [Eli White](https://github.com/TheSavior)
-# books
-# Tools
+
+# React Native devs to to follow
+It's important that you keep always updated with React Native news and learning new things to grow your experice, here are some folks in React Native that will benefits you with your React Native journy:
+
+- 🔸 [William Candillon](https://medium.com/@wcandillon)
+- 🔸 [Aman Mittal](https://blog.logrocket.com/author/amanmittal/)
+- 🔸 [Catalin Miron ](https://twitter.com/mironcatalin)
+- 🔸 [Evan Bacon](https://twitter.com/Baconbrix)
+- 🔸 [Satyajit Sahoo](https://twitter.com/satya164)
+- 🔸 [Jonny Burger](https://github.com/JonnyBurger)
+- 🔸 [Leo Natan](https://github.com/LeoNatan)
+- 🔸 [Nicolas Charpentier](https://github.com/charpeni)
+- 🔸 [Spencer Carli](https://github.com/spencercarli)
+- 🔸 [Nader Dabit](https://github.com/dabit3)
+- 🔸 [Eli White](https://github.com/TheSavior)
+
+
+# 📚 Books
+# 🛠 Tools
 
