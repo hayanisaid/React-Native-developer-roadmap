@@ -70,14 +70,33 @@ Styling is in Important step in React Native development.
 - 📒 [react-native-tailwindcss](https://github.com/TVke/react-native-tailwindcss)
 
 
-# 🖌 Building React native components
+# 🖌 Building React native components and Layout
 
 - 📌 [Easily Build Forms in React Native](https://medium.com/react-native-development/easily-build-forms-in-react-native-9006fcd2a73b)
 - 📌 [uilding React Native forms with UI components
 ](https://blog.logrocket.com/build-better-forms-with-react-native-ui-components/)
 - 📌 [How to create Custom Component in React native?](https://www.skcript.com/svr/how-to-create-custom-component-in-react-native/)
-- [Custom Component in React Native](https://www.fastfwd.com/custom-component-in-react-native/)
+- 📌 [Custom Component in React Native](https://www.fastfwd.com/custom-component-in-react-native/)
 - 📌[Create native UI component in React Native](https://medium.com/@yrezgui/create-native-ui-component-in-react-native-6f4b7fe4cc95)
+
+
+# Navigation
+- 📌 [Introducing React Navigation 5](https://saidhayani.medium.com/introducing-react-navigation-5-116accf6609c)
+- 📌 [React Native navigation: React Navigation examples and tutorial](https://blog.logrocket.com/navigating-react-native-apps-using-react-navigation/)
+- 📌 [How To Use Routing with React Navigation in React Native](https://www.digitalocean.com/community/tutorials/react-react-native-navigation)
+- 📌 [Building a React Native App With Complex Navigation Using React Navigation](https://medium.com/@jan.hesters/building-a-react-native-app-with-complex-navigation-using-react-navigation-85a479308f52)
+
+# 🔑 Authentication
+- [How to Add Authentication to React Native in Three Steps Using Firebase](https://www.freecodecamp.org/news/how-to-add-authentication-to-react-native-in-three-steps-using-firebase/)
+# Animations
+- 📌 [How to use Reanimated 2 (a beginners guide)](https://medium.com/react-native-school/how-to-use-reanimated-2-a-beginners-guide-b18b41dc74cc)
+- 📌 [Making Animations In React Native— The Simplified Guide](https://blog.bitsrc.io/making-animations-in-react-native-the-simplified-guide-6580f961f6e8)
+- 📌 [Top 5 Animation Libraries in React Native](https://blog.bitsrc.io/top-5-animation-libraries-in-react-native-d00ec8ddfc8d)
+- 📌  [React-Native Animated Polyline](https://medium.com/@shayamthomas.official/react-native-animated-polyline-9c1d31b2bde7)
+- 📌 [Implementing FoldView in React Native](https://commitocracy.com/implementing-foldview-in-react-native-e970011f98b8)
+- 📌 [How Animations Work in React Native](https://www.freecodecamp.org/news/how-react-native-animations-work/)
+- 📌 [The top 6 animation libraries in React Native](https://blog.logrocket.com/the-top-6-animation-libraries-in-react-native/)
+
 
 
 # UI libraries
@@ -85,11 +104,6 @@ Styling is in Important step in React Native development.
 - 📌 [Top 5 Animation Libraries in React Native](https://blog.bitsrc.io/top-5-animation-libraries-in-react-native-d00ec8ddfc8d)
 - 📌 [Comparing React Native UI libraries](https://blog.logrocket.com/comparing-react-native-ui-libraries/)
 
-
-# Tutorials to build react Projects
-# Articles
-# books
-# Tools
 
 # Deployment and publishing to the app stores
 - 📌 [How to Deploy a React Native IOS app on the App Store](https://readybytes.in/blog/how-to-deploy-a-react-native-ios-app-on-the-app-store)
@@ -100,5 +114,35 @@ Styling is in Important step in React Native development.
 - 📌 [How to build and upload a React Native app to the iOS App Store using Expo](https://www.soeasie.com/blog/how-to-build-and-upload-a-react-native-app-to-the-ios-app-store-using-expo)
 - 📌 [How to Deploy a Create-React-Native-App to the AppStore](https://codeburst.io/how-to-deploy-a-create-react-native-app-to-the-appstore-229a8fa36fb1)
 
+
+# 🔋 Performances
+- 📌 [Optimize your React Native app performance](https://blog.logrocket.com/optimize-your-react-native-app-performance/)
+- 📌 [How to improve the performance of a React Native app](https://blog.codemagic.io/improve-react-native-app-performance/)
+- 📌 [Comparing the Performance between Native iOS (Swift) and React-Native](https://medium.com/the-react-native-log/comparing-the-performance-between-native-ios-swift-and-react-native-7b5490d363e2)
+
 # ⚠️ Common issues
+
+# 🔭 Advanced
+#🪤 Build fun things and Real project with React Native
+
+- 📌 [“Can it be done in React Native?” — a case for declarative gestures and animations](https://medium.com/@wcandillon/can-it-be-done-in-react-native-a-case-for-declarative-gestures-and-animations-823ae04f306b)
+- 📌 [Can it be done in React Native? Revolut chart using D3](https://levelup.gitconnected.com/can-it-be-done-in-react-native-revolut-chart-using-d3-52cecfe93639)
+- 📌 [Can this be done in React Native? Building the Chrome iOS TabBar](https://levelup.gitconnected.com/can-this-be-done-in-react-native-chrome-ios-tabbar-c76e5698dfb7)
+- 📌[Building Serverless Mobile Applications with React Native & AWS](https://medium.com/react-native-training/building-serverless-mobile-applications-with-react-native-aws-740ecf719fce)
+# Articles
+# React Native devs to to follow
+
+- [William Candillon](https://medium.com/@wcandillon)
+- [Aman Mittal](https://blog.logrocket.com/author/amanmittal/)
+- [Catalin Miron ](https://twitter.com/mironcatalin)
+- [Evan Bacon](https://twitter.com/Baconbrix)
+- [Satyajit Sahoo](https://twitter.com/satya164)
+- [Jonny Burger](https://github.com/JonnyBurger)
+- [Leo Natan](https://github.com/LeoNatan)
+- [Nicolas Charpentier](https://github.com/charpeni)
+- [Spencer Carli](https://github.com/spencercarli)
+- [Nader Dabit](https://github.com/dabit3)
+- [Eli White](https://github.com/TheSavior)
+# books
+# Tools
 
