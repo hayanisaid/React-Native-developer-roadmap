@@ -1,13 +1,12 @@
 # React Native Developer Roadmap
 <img src="./images/undraw_developer_activity_bv83.png"/>
-This is a complete guide to be A React Native. this repo contain all the resouces you need to master the React Native art,(Articles, Tutorials, Youtube Videos)
+React Native is a cross-platform library to build mobile apps using React and JavaScript.
+This guide is to help you in your React Native journy. this repo contain a great the resouces you need to work with React Native art,(Articles, Tutorials).
 
 
-# Getting started
-They say that getting started is a the way to go
-## Articles
-### 🟢 Intos to React Native
-We always need a good resoucres that will lead us to a smoth into to React Native and gives you some insights about React Native ecosystem.
+
+# 🟢 Intos to React Native
+Here are some good resoucres that will onboard you to React Native and gives you some insights about React Native ecosystem.
 
 - 📌 [Blueprint to becoming a React Native Developer](https://medium.com/differential/blueprint-to-becoming-a-react-native-developer-6cad2b894887#.t3uw4j4u8)
 -  📌 [Getting started with React Native](https://www.sitepoint.com/getting-started-with-react-native/)
@@ -127,8 +126,8 @@ Learn how to do styling in React Native with these resources below:
 - 📌 [Optimize your React Native app performance](https://blog.logrocket.com/optimize-your-react-native-app-performance/)
 - 📌 [How to improve the performance of a React Native app](https://blog.codemagic.io/improve-react-native-app-performance/)
 - 📌 [Comparing the Performance between Native iOS (Swift) and React-Native](https://medium.com/the-react-native-log/comparing-the-performance-between-native-ios-swift-and-react-native-7b5490d363e2)
-
-# ⚠️ Common issues
+<!--
+# ⚠️ Common issues-->
 
 
 #🪤 Build fun things and real project with React Native
@@ -157,5 +156,10 @@ It's important that you keep always updated with React Native news and learning 
 
 
 # 📚 Books
-# 🛠 Tools
+# Contribution
+All contributions are welcome, editing, adding a resource, fixing a grammers.
+Fork the repo. create your own branch then make a pull request✅.
+
+
+<!--# 🛠 Tools-->
 
