@@ -158,7 +158,7 @@ It's important that you keep always updated with React Native news and learning 
 - 📒 [React Native in Action by Nader Dabit](https://www.manning.com/books/react-native-in-action)
 - 📒 [LEARN REACT NATIVE](https://www.newline.co/fullstack-react-native/)
 
-# Contribution
+# Contributors
 All contributions are welcome, editing, adding a resource, fixing a grammers.
 Fork the repo. create your own branch then make a pull request✅.
 
