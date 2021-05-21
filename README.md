@@ -1,4 +1,4 @@
-# React Native Developer Roadmap
+#  📚 The React Native Developer Roadmap 📚
 <img src="./images/undraw_developer_activity_bv83.png"/>
 React Native is a cross-platform library to build mobile apps using React and JavaScript. This guide is to help you in your React Native journey. this repo contains great resources you need to work with React Native art,(Articles, Tutorials).
 
