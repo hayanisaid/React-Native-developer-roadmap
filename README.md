@@ -158,7 +158,7 @@ After getting your hands in React Native, it's time to build and practice what y
 - 📌[Building Serverless Mobile Applications with React Native & AWS](https://medium.com/react-native-training/building-serverless-mobile-applications-with-react-native-aws-740ecf719fce)
 
 
-# React Native developers to to follow
+# React Native developers to follow
 
 It's important that you always keep updated with React Native news and learning new things to grow your skills, here are some folks in the React Native community that will benefit you with your React Native journey:
 
