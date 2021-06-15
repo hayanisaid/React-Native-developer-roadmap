@@ -2,12 +2,12 @@
 
 <img src="./images/undraw_developer_activity_bv83.png"/>
 
-React Native is a cross-platform library to build mobile apps using React and JavaScript. This guide is to help you in your React Native journey. This repo contains great resources you need to work with React Native (e.g., Articles, Tutorials).
+React Native is a cross-platform library to build mobile apps using React and JavaScript. This guide will help you in your React Native journey. This repo contains great resources you need to work with React Native (e.g. Articles, Tutorials).
 
 
 # 🟢 Intro to React Native
 
-Here are some good resources that will onboard you to React Native and give you some insights about the React Native ecosystem.
+Here are some good resources that will introduce you to React Native and give you some insights about the React Native ecosystem.
 
 - 📌 [Blueprint to becoming a React Native Developer](https://medium.com/differential/blueprint-to-becoming-a-react-native-developer-6cad2b894887#.t3uw4j4u8)
 -  📌 [Getting started with React Native](https://www.sitepoint.com/getting-started-with-react-native/)
@@ -16,7 +16,7 @@ Here are some good resources that will onboard you to React Native and give you 
 
 ## 🔨 Setup the Environment for React Native
 
-After you get an idea about React Native, now it's time to start setting up the ground to start building things with React Native.
+After you get an idea about React Native, it's now time to start setting up the ground to build things with React Native.
 
 
 ### 📱Setup iOS Environment
@@ -38,7 +38,7 @@ After you get an idea about React Native, now it's time to start setting up the 
 
 # ⚙️ Debugging
 
-Here is some content that will help you learn how to debug a React Native app ⬇️.
+Here is some content to help learn how to debug a React Native app ⬇️.
 
 - 📌 [Tools for debugging React Native](https://www.sitepoint.com/tools-for-debugging-react-native/)
 - 📌[Debugging in React Native](https://reactnative.dev/docs/debugging)
@@ -126,7 +126,7 @@ Learn how to do styling in React Native with these resources below:
 - 📌 [Comparing React Native UI libraries](https://blog.logrocket.com/comparing-react-native-ui-libraries/)
 
 
-# Deployment and publishing to the App Stores
+# Deployment and publishing to App Stores
 
 - 📌 [How to Deploy a React Native IOS app on the App Store](https://readybytes.in/blog/how-to-deploy-a-react-native-ios-app-on-the-app-store)
 - 📌 [Build an iOS App with React Native and Publish it to the App Store](https://developer.okta.com/blog/2019/04/05/react-native-ios-app-store)
@@ -148,9 +148,9 @@ Learn how to do styling in React Native with these resources below:
 # ⚠️ Common issues-->
 
 
-# 🪤 Build fun things and real project with React Native
+# 🪤 Build fun things and real projects with React Native
 
-After getting your hands in React Native, it's time to build and practice what you learned. Here are some fun projects to work on:
+After getting your hands on React Native, it's time to build and practice what you've learned. Here are some fun projects to work on:
 
 - 📌 [“Can it be done in React Native?” — a case for declarative gestures and animations](https://medium.com/@wcandillon/can-it-be-done-in-react-native-a-case-for-declarative-gestures-and-animations-823ae04f306b)
 - 📌 [Can it be done in React Native? Revolut chart using D3](https://levelup.gitconnected.com/can-it-be-done-in-react-native-revolut-chart-using-d3-52cecfe93639)
@@ -160,7 +160,7 @@ After getting your hands in React Native, it's time to build and practice what y
 
 # React Native developers to follow
 
-It's important that you always keep updated with React Native news and learning new things to grow your skills, here are some folks in the React Native community that will benefit you with your React Native journey:
+It's important that you always keep up-to-date with React Native news and learn new things to grow your skills. Here are some folks in the React Native community that will benefit you in your React Native journey:
 
 - 🔸 [William Candillon](https://medium.com/@wcandillon)
 - 🔸 [Aman Mittal](https://blog.logrocket.com/author/amanmittal/)
