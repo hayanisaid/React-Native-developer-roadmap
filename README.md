@@ -2,7 +2,7 @@
 
 <img src="./images/undraw_developer_activity_bv83.png"/>
 
-React Native is a cross-platform library to build mobile apps using React and JavaScript. This guide will help you in your React Native journey. This repo contains great resources you need to work with React Native (e.g. Articles, Tutorials).
+React Native is a cross-platform library to build mobile apps using React and JavaScript. This guide will help you on your React Native journey. This repo contains great resources you need to work with React Native (e.g. Articles, Tutorials, Blog Posts).
 
 
 # 🟢 Intro to React Native
@@ -16,7 +16,7 @@ Here are some good resources that will introduce you to React Native and give yo
 
 ## 🔨 Setup the Environment for React Native
 
-After you get an idea about React Native, it's now time to start setting up the ground to build things with React Native.
+After you get an idea about React Native, it's now time to start setting up the ground to build things.
 
 
 ### 📱Setup iOS Environment
@@ -160,7 +160,7 @@ After getting your hands on React Native, it's time to build and practice what y
 
 # React Native developers to follow
 
-It's important that you always keep up-to-date with React Native news and learn new things to grow your skills. Here are some folks in the React Native community that will benefit you in your React Native journey:
+It's important that you always keep up-to-date with React Native news and learn new things to grow your skills. Here are some folks in the React Native community that will benefit you on your React Native journey:
 
 - 🔸 [William Candillon](https://medium.com/@wcandillon)
 - 🔸 [Aman Mittal](https://blog.logrocket.com/author/amanmittal/)
