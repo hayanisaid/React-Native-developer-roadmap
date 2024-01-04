@@ -174,6 +174,7 @@ It's important that you always keep up-to-date with React Native news and learn 
 - 🔸 [Nader Dabit](https://github.com/dabit3)
 - 🔸 [Eli White](https://github.com/TheSavior)
 - 🔸 [Vadim Savin/notJustDev](https://github.com/notJust-dev)
+- 🔸 [Marc Rousavy](https://github.com/mrousavy)
 
 # 📚 Books
 
